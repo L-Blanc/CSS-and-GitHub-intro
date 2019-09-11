@@ -4,7 +4,7 @@
     */
 
 body {
-    background:#FFD978; /* must change */
+    background: #FFD978; /* must change */
     color: #000; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
@@ -20,11 +20,11 @@ article {
 /* --- ADD YOUR STYLES BELOW --- */
 
 header {
-    background:#FFAA00;
+    background: #FFAA00;
 }
 footer{
-  background:#FFAA00;
-  color:#000
+  background: #FFAA00;
+  color: #000
 }
   aside{
     background: #FFD978;
@@ -34,32 +34,32 @@ footer{
   }
 /* -- add your PSEUDO CLASSES below this line --- */
 a:link{
-  color:#002F80;
+  color: #002F80;
 }
 a:visited{
   color: #0081D1;
 }
 a:focus{
-  color:#005EFF;
+  color: #005EFF;
 }
 a:hover{
-  color:#325185;
+  color: #325185;
 }
 a:active{
-  color:#004DD1;
+  color: #004DD1;
 }
 footer a:link{
-  color:#002F80;
+  color: #002F80;
 }
 footer a:visited{
   color: #0081D1;
 }
 footer a:focus{
-  color:#005EFF;
+  color: #005EFF;
 }
 footer a:hover{
-  color:#325185;
+  color: #325185;
 }
 footer a:active{
-  color:#004DD1;
+  color: #004DD1;
 }
